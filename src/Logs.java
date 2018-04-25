@@ -11,6 +11,78 @@ class Logs{
     private Date time = new Date();
     private BufferedWriter writer;
 
+    private int peerID;
+    private String hostName;
+    private int portNumber;
+    private int haveFile;
+    private int[] bitfield;
+    private int numOfPieces = 0;
+
+    public void printBitfield(){
+        for(int bit : bitfield)
+            System.out.print(bit);
+    }
+
+    public int getNumOfPieces() {
+        return numOfPieces;
+    }
+
+    public void updateNumOfPieces() {
+        this.numOfPieces++;
+        if(this.numOfPieces == bitfield.length)
+            this.haveFile = 1;
+    }
+
+
+//
+
+
+    public int getPeerID() {
+        return peerID;
+    }
+
+    public void setPeerID(int peerID) {
+        this.peerID = peerID;
+    }
+
+    public String getHostName() {
+        return hostName;
+    }
+
+    public void setHostName(String hostName) {
+        this.hostName = hostName;
+    }
+
+    public int getPortNumber() {
+        return portNumber;
+    }
+
+    public void setPortNumber(int portNumber) {
+        this.portNumber = portNumber;
+    }
+
+    public int getHaveFile() {
+        return haveFile;
+    }
+
+    public void setHaveFile(int haveFile) {
+        this.haveFile = haveFile;
+    }
+
+    public int[] getBitfield() {
+        return bitfield;
+    }
+
+    public void setBitfield(int[] bitfield) {
+        this.bitfield = bitfield;
+    }
+
+    public void updateBitfield(int index){
+        bitfield[index] = 1;
+    }
+
+
+
     public Logs(BufferedWriter writer){
         timeFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
         this.writer = writer;
@@ -40,8 +112,7 @@ class Logs{
         time = new Date();
         StringBuffer log = new StringBuffer();
         log.append(timeFormat.format(time));
-        log.append(':');
-        log.append(" Peer ");
+        log.append(": Peer");
         log.append(id1);
         log.append(" is connected from Peer ");
         log.append(id2);
@@ -56,12 +127,13 @@ class Logs{
         }
     }
 
+
+
     public void changePreferredNeighbors(int id1, int[] ids){
         time = new Date();
         StringBuffer log = new StringBuffer();
         log.append(timeFormat.format(time));
-        log.append(':');
-        log.append(" Peer ");
+        log.append(": Peer");
         log.append(id1);
         log.append(" has the preferred neighbors ");
         for(int id : ids){
@@ -84,8 +156,7 @@ class Logs{
         time = new Date();
         StringBuffer log = new StringBuffer();
         log.append(timeFormat.format(time));
-        log.append(':');
-        log.append(" Peer ");
+        log.append(": Peer ");
         log.append(id1);
         log.append(" has the optimistically unchoked neighbor ");
         log.append(id2);

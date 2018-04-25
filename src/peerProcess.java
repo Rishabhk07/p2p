@@ -13,22 +13,22 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 
 public class peerProcess {
-    private static final char CHOKE = '0';
-    private static final char UNCHOKE = '1';
-    private static final char INTERESTED = '2';
-    private static final char NOT_INTERESTED = '3';
-    private static final char HAVE = '4';
-    private static final char BITFIELD = '5';
-    private static final char REQUEST = '6';
-    private static final char PIECE = '7';
+//    private static final char CHOKE = '0';
+//    private static final char UNCHOKE = '1';
+//    private static final char INTERESTED = '2';
+//    private static final char NOT_INTERESTED = '3';
+//    private static final char HAVE = '4';
+//    private static final char BITFIELD = '5';
+//    private static final char REQUEST = '6';
+//    private static final char PIECE = '7';
     private static int hostID;
-    private static LinkedHashMap<Integer, PeerInfo> peers;
+    private static LinkedHashMap<Integer, LogPeerInfo> peers;
     private static byte[][] filePieces;
     private static Messages msg = new Messages();
     private static File log_file;
     private static Logs logs;
     private static ConcurrentHashMap<Integer, PeerConnection> peerConnections;
-    private static PeerInfo thisPeer;
+    private static LogPeerInfo thisPeer;
     private static CommonInfo common;
     private static int completedPeers = 0;
     private static File directory;
@@ -50,26 +50,32 @@ public class peerProcess {
             writer.flush();
             logs = new Logs(writer);
             /*
-            *   Read PeerInfo.cfg file. Each line in this file contains details about a peer.
-            *   Create PeerInfo object for each line in this file.
-            *   Enter details of each peer in corresponding PeerInfo object.
-            *   Put PeerInfo objects in a LinkedHashMap with their peerIDs as keys.
-            *   LinkedHashMap is used to maintain the order of stored PeerInfo objects according to the file.
+            *   Read LogPeerInfo.cfg file. Each line in this file contains details about a peer.
+            *   Create LogPeerInfo object for each line in this file.
+            *   Enter details of each peer in corresponding LogPeerInfo object.
+            *   Put LogPeerInfo objects in a LinkedHashMap with their peerIDs as keys.
+            *   LinkedHashMap is used to maintain the order of stored LogPeerInfo objects according to the file.
              */
             BufferedReader peerInfo = new BufferedReader(new FileReader("PeerInfo.cfg"));
             peers = new LinkedHashMap<>();
             for (Object line : peerInfo.lines().toArray()) {
                 String[] parts = ((String) line).split(" ");
-                PeerInfo peer = new PeerInfo();
-                peer.setPeerID(Integer.parseInt(parts[0]));
-                peer.setHostName(parts[1]);
-                peer.setPortNumber(Integer.parseInt(parts[2]));
-                peer.setHaveFile(Integer.parseInt(parts[3]));
-                peers.put(peer.getPeerID(), peer);
+                LogPeerInfo thisPeer = new LogPeerInfo();
+                thisPeer.setPeerID(Integer.parseInt(parts[0]));
+                thisPeer.setHostName(parts[1]);
+                thisPeer.setPortNumber(Integer.parseInt(parts[2]));
+                thisPeer.setHaveFile(Integer.parseInt(parts[3]));
+                peers.put(thisPeer.getPeerID(), thisPeer);
+                ModelPeer modelPeer = new ModelPeer(Integer.parseInt(parts[0]),
+                        parts[1],
+                        Integer.parseInt(parts[2]),
+                        Integer.parseInt(parts[3])
+
+                );
             }
             peerInfo.close();
 
-//            for(PeerInfo peer : peers.values()){
+//            for(LogPeerInfo peer : peers.values()){
 //                System.out.println(peer.getHost() + ":" + peer.getPort() + ":" + peer.getHaveFile());
 //            }
 
@@ -181,7 +187,7 @@ public class peerProcess {
                     if(id == hostID)
                         break;
                     else{
-                        PeerInfo connPeer = peers.get(id);
+                        LogPeerInfo connPeer = peers.get(id);
                         Socket connection = new Socket(connPeer.getHostName(), connPeer.getPortNumber());
                         DataOutputStream dataOutputStream = new DataOutputStream(connection.getOutputStream());
                         dataOutputStream.flush();
@@ -254,7 +260,7 @@ public class peerProcess {
                             for (Integer peer : interestedPeers) {
                                 if(peerConnections.get(peer).isChoked()){
                                     peerConnections.get(peer).unchoke();
-                                    peerConnections.get(peer).sendMessage(UNCHOKE);
+                                    peerConnections.get(peer).sendMessage(Helper.UNCHOKE);
                                 }
                             }
                         } else {
@@ -265,13 +271,13 @@ public class peerProcess {
                             for (int peer : preferredNeighbors) {
                                 if(peerConnections.get(peer).isChoked()){
                                     peerConnections.get(peer).unchoke();
-                                    peerConnections.get(peer).sendMessage(UNCHOKE);
+                                    peerConnections.get(peer).sendMessage(Helper.UNCHOKE);
                                 }
                             }
                             for (Integer peer : interestedPeers) {
                                 if(!peerConnections.get(peer).isChoked() && !peerConnections.get(peer).isOptimisticallyUnchoked()){
                                     peerConnections.get(peer).choke();
-                                    peerConnections.get(peer).sendMessage(CHOKE);
+                                    peerConnections.get(peer).sendMessage(Helper.CHOKE);
                                 }
                             }
                         }
@@ -289,7 +295,7 @@ public class peerProcess {
                             preferredNeighbors[counter++] = peer;
                             if(peerConnections.get(peer).isChoked()){
                                 peerConnections.get(peer).unchoke();
-                                peerConnections.get(peer).sendMessage(UNCHOKE);
+                                peerConnections.get(peer).sendMessage(Helper.UNCHOKE);
                             }
                         }
                     }
@@ -303,7 +309,7 @@ public class peerProcess {
                             }
                             if(peerConnections.get(max).isChoked()) {
                                 peerConnections.get(max).unchoke();
-                                peerConnections.get(max).sendMessage(UNCHOKE);
+                                peerConnections.get(max).sendMessage(Helper.UNCHOKE);
                             }
                             preferredNeighbors[i] = max;
                             interestedPeers.remove(Integer.valueOf(max));
@@ -311,7 +317,7 @@ public class peerProcess {
                         for (Integer peer : interestedPeers) {
                             if(!peerConnections.get(peer).isChoked() && !peerConnections.get(peer).isOptimisticallyUnchoked()){
                                 peerConnections.get(peer).choke();
-                                peerConnections.get(peer).sendMessage(CHOKE);
+                                peerConnections.get(peer).sendMessage(Helper.CHOKE);
                             }
                         }
                     }
@@ -350,7 +356,7 @@ public class peerProcess {
                     int randomNumber = Math.abs(r.nextInt() % interested.size());
                     int connection = interested.get(randomNumber);
                     peerConnections.get(connection).unchoke();
-                    peerConnections.get(connection).sendMessage(UNCHOKE);
+                    peerConnections.get(connection).sendMessage(Helper.UNCHOKE);
                     peerConnections.get(connection).optimisticallyUnchoke();
                     logs.changeOptimisticallyUnchokedNeighbor(thisPeer.getPeerID(), peerConnections.get(connection).getPeerID());
                     try {
@@ -370,7 +376,12 @@ public class peerProcess {
             }
             System.exit(0);
         }
+
+
+
     }
+
+
 
     private static class PeerConnection{
         private Socket connection;
@@ -440,19 +451,19 @@ public class peerProcess {
                 DataOutputStream dataOutputStream = new DataOutputStream(connection.getOutputStream());
                 dataOutputStream.flush();
                 switch (type){
-                    case CHOKE:
+                    case Helper.CHOKE:
                         dataOutputStream.write(msg.getChokeMessage());
                         break;
-                    case UNCHOKE:
+                    case Helper.UNCHOKE:
                         dataOutputStream.write(msg.getUnchokeMessage());
                         break;
-                    case INTERESTED:
+                    case Helper.INTERESTED:
                         dataOutputStream.write(msg.getInterestedMessage());
                         break;
-                    case NOT_INTERESTED:
+                    case Helper.NOT_INTERESTED:
                         dataOutputStream.write(msg.getNotInterestedMessage());
                         break;
-                    case BITFIELD:
+                    case Helper.BITFIELD:
                         dataOutputStream.write(msg.getBitfieldMessage(thisPeer.getBitfield()));
                         break;
                     default:
@@ -470,13 +481,13 @@ public class peerProcess {
                 DataOutputStream dataOutputStream = new DataOutputStream(connection.getOutputStream());
                 dataOutputStream.flush();
                 switch (type){
-                    case HAVE:
+                    case Helper.HAVE:
                         dataOutputStream.write(msg.getHaveMessage(index));
                         break;
-                    case REQUEST:
+                    case Helper.REQUEST:
                         dataOutputStream.write(msg.getRequestMessage(index));
                         break;
-                    case PIECE:
+                    case Helper.PIECE:
                         dataOutputStream.write(msg.getPieceMessage(index, filePieces[index]));
                         break;
                     default:
@@ -493,12 +504,12 @@ public class peerProcess {
             int i;
             for(i = 0; i < len; i++){
                 if(thisPeerBitfield[i] == 0 && connectedPeerBitfield[i] == 1){
-                    sendMessage(INTERESTED);
+                    sendMessage(Helper.INTERESTED);
                     break;
                 }
             }
             if(i == len)
-                sendMessage(NOT_INTERESTED);
+                sendMessage(Helper.NOT_INTERESTED);
         }
 
         public void getPieceIndex(int[] thisPeerBitfield, int[] connectedPeerBitfield, int len){
@@ -512,7 +523,7 @@ public class peerProcess {
             Random r = new Random();
             if(indices.size() > 0){
                 int index = indices.get(Math.abs(r.nextInt() % indices.size()));
-                sendMessage(REQUEST, index);
+                sendMessage(Helper.REQUEST, index);
             }
         }
 
@@ -562,7 +573,7 @@ public class peerProcess {
                 {
                     try{
                         DataInputStream dataInputStream = new DataInputStream(peer.getConnection().getInputStream());
-                        peer.sendMessage(BITFIELD);
+                        peer.sendMessage(Helper.BITFIELD);
                         while(completedPeers < peers.size()){
                             int msgLength = dataInputStream.readInt();
                             byte[] buffer = new byte[msgLength];
@@ -579,28 +590,28 @@ public class peerProcess {
                             int index;
                             int bits;
                             switch (msgType){
-                                case CHOKE:
+                                case Helper.CHOKE:
                                     logs.choked(thisPeer.getPeerID(), peer.peerID);
                                     peer.choke();
                                     break;
-                                case UNCHOKE:
+                                case Helper.UNCHOKE:
                                     peer.unchoke();
                                     logs.unchoked(thisPeer.getPeerID(), peer.peerID);
                                     peer.getPieceIndex(thisPeer.getBitfield(), peers.get(peer.peerID).getBitfield(), thisPeer.getBitfield().length);
                                     break;
-                                case INTERESTED:
+                                case Helper.INTERESTED:
                                     logs.receiveInterested(thisPeer.getPeerID(), peer.peerID);
                                     peer.setInterested();
                                     break;
-                                case NOT_INTERESTED:
+                                case Helper.NOT_INTERESTED:
                                     logs.receiveNotInterested(thisPeer.getPeerID(), peer.peerID);
                                     peer.setNotInterested();
                                     if(!peer.isChoked()){
                                         peer.choke();
-                                        peer.sendMessage(CHOKE);
+                                        peer.sendMessage(Helper.CHOKE);
                                     }
                                     break;
-                                case HAVE:
+                                case Helper.HAVE:
                                     index = ByteBuffer.wrap(msg).getInt();
                                     peers.get(peer.getPeerID()).updateBitfield(index);
                                     bits = 0;
@@ -615,7 +626,7 @@ public class peerProcess {
                                     peer.compareBitfield(thisPeer.getBitfield(), peers.get(peer.getPeerID()).getBitfield(), thisPeer.getBitfield().length);
                                     logs.receiveHave(thisPeer.getPeerID(), peer.getPeerID(), index);
                                     break;
-                                case BITFIELD:
+                                case Helper.BITFIELD:
                                     int[] bitfield = new int[msg.length/4];
                                     counter = 0;
                                     for(int i = 0; i < msg.length; i += 4){
@@ -637,10 +648,10 @@ public class peerProcess {
                                     }
                                     peer.compareBitfield(thisPeer.getBitfield(), bitfield, bitfield.length);
                                     break;
-                                case REQUEST:
-                                    peer.sendMessage(PIECE, ByteBuffer.wrap(msg).getInt());
+                                case Helper.REQUEST:
+                                    peer.sendMessage(Helper.PIECE, ByteBuffer.wrap(msg).getInt());
                                     break;
-                                case PIECE:
+                                case Helper.PIECE:
                                     index = ByteBuffer.wrap(Arrays.copyOfRange(msg, 0, 4)).getInt();
                                     counter = 0;
                                     filePieces[index] = new byte[msg.length - 4];
@@ -668,7 +679,7 @@ public class peerProcess {
                                     System.out.print(sb);
                                     peer.checkCompleted();
                                     for(int connection : peerConnections.keySet()){
-                                        peerConnections.get(connection).sendMessage(HAVE, index);
+                                        peerConnections.get(connection).sendMessage(Helper.HAVE, index);
                                     }
                                     break;
                                 default:

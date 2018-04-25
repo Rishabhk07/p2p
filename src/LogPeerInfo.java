@@ -1,7 +1,7 @@
 /**
  * Created by rishabhkhanna on 24/04/18.
  */
-class PeerInfo extends Thread{
+class LogPeerInfo extends Thread{
     private int peerID;
     private String hostName;
     private int portNumber;
