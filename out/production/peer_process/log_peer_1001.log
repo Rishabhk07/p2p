@@ -1,0 +1,917 @@
+2018/04/24 20:02:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:55: Peer 1001 is connected from Peer 1002.
+2018/04/24 20:02:55: Peer 1001 received the 'interested' message from 1002.
+2018/04/24 20:02:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:02:55: Peer 1001 received the 'have' message from 1002 for the piece 189.
+2018/04/24 20:02:55: Peer 1001 received the 'have' message from 1002 for the piece 183.
+2018/04/24 20:02:55: Peer 1001 is choked by 1002.
+2018/04/24 20:02:55: Peer 1001 received the 'have' message from 1002 for the piece 252.
+2018/04/24 20:02:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:02:56: Peer 1001 received the 'have' message from 1002 for the piece 180.
+2018/04/24 20:02:56: Peer 1001 received the 'have' message from 1002 for the piece 73.
+2018/04/24 20:02:56: Peer 1001 is choked by 1002.
+2018/04/24 20:02:56: Peer 1001 received the 'have' message from 1002 for the piece 294.
+2018/04/24 20:03:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:01: Peer 1001 received the 'have' message from 1002 for the piece 178.
+2018/04/24 20:03:01: Peer 1001 received the 'have' message from 1002 for the piece 344.
+2018/04/24 20:03:01: Peer 1001 is choked by 1002.
+2018/04/24 20:03:01: Peer 1001 received the 'have' message from 1002 for the piece 170.
+2018/04/24 20:03:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:06: Peer 1001 received the 'have' message from 1002 for the piece 375.
+2018/04/24 20:03:06: Peer 1001 received the 'have' message from 1002 for the piece 18.
+2018/04/24 20:03:06: Peer 1001 is choked by 1002.
+2018/04/24 20:03:06: Peer 1001 received the 'have' message from 1002 for the piece 155.
+2018/04/24 20:03:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:03:10: Peer 1001 received the 'have' message from 1002 for the piece 47.
+2018/04/24 20:03:10: Peer 1001 received the 'have' message from 1002 for the piece 251.
+2018/04/24 20:03:10: Peer 1001 is choked by 1002.
+2018/04/24 20:03:10: Peer 1001 received the 'have' message from 1002 for the piece 128.
+2018/04/24 20:03:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:11: Peer 1001 received the 'have' message from 1002 for the piece 314.
+2018/04/24 20:03:11: Peer 1001 received the 'have' message from 1002 for the piece 100.
+2018/04/24 20:03:11: Peer 1001 is choked by 1002.
+2018/04/24 20:03:11: Peer 1001 received the 'have' message from 1002 for the piece 230.
+2018/04/24 20:03:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:16: Peer 1001 received the 'have' message from 1002 for the piece 141.
+2018/04/24 20:03:16: Peer 1001 received the 'have' message from 1002 for the piece 242.
+2018/04/24 20:03:16: Peer 1001 is choked by 1002.
+2018/04/24 20:03:16: Peer 1001 received the 'have' message from 1002 for the piece 372.
+2018/04/24 20:03:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:21: Peer 1001 received the 'have' message from 1002 for the piece 181.
+2018/04/24 20:03:21: Peer 1001 received the 'have' message from 1002 for the piece 349.
+2018/04/24 20:03:21: Peer 1001 is choked by 1002.
+2018/04/24 20:03:21: Peer 1001 received the 'have' message from 1002 for the piece 220.
+2018/04/24 20:03:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:03:25: Peer 1001 received the 'have' message from 1002 for the piece 260.
+2018/04/24 20:03:25: Peer 1001 received the 'have' message from 1002 for the piece 339.
+2018/04/24 20:03:25: Peer 1001 is choked by 1002.
+2018/04/24 20:03:25: Peer 1001 received the 'have' message from 1002 for the piece 324.
+2018/04/24 20:03:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:26: Peer 1001 received the 'have' message from 1002 for the piece 290.
+2018/04/24 20:03:26: Peer 1001 received the 'have' message from 1002 for the piece 378.
+2018/04/24 20:03:26: Peer 1001 is choked by 1002.
+2018/04/24 20:03:26: Peer 1001 received the 'have' message from 1002 for the piece 240.
+2018/04/24 20:03:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:31: Peer 1001 received the 'have' message from 1002 for the piece 42.
+2018/04/24 20:03:31: Peer 1001 received the 'have' message from 1002 for the piece 267.
+2018/04/24 20:03:31: Peer 1001 is choked by 1002.
+2018/04/24 20:03:31: Peer 1001 received the 'have' message from 1002 for the piece 209.
+2018/04/24 20:03:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:36: Peer 1001 received the 'have' message from 1002 for the piece 12.
+2018/04/24 20:03:36: Peer 1001 received the 'have' message from 1002 for the piece 104.
+2018/04/24 20:03:36: Peer 1001 is choked by 1002.
+2018/04/24 20:03:36: Peer 1001 received the 'have' message from 1002 for the piece 174.
+2018/04/24 20:03:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:03:40: Peer 1001 received the 'have' message from 1002 for the piece 107.
+2018/04/24 20:03:40: Peer 1001 received the 'have' message from 1002 for the piece 108.
+2018/04/24 20:03:40: Peer 1001 is choked by 1002.
+2018/04/24 20:03:40: Peer 1001 received the 'have' message from 1002 for the piece 315.
+2018/04/24 20:03:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:41: Peer 1001 received the 'have' message from 1002 for the piece 149.
+2018/04/24 20:03:41: Peer 1001 received the 'have' message from 1002 for the piece 257.
+2018/04/24 20:03:41: Peer 1001 is choked by 1002.
+2018/04/24 20:03:41: Peer 1001 received the 'have' message from 1002 for the piece 48.
+2018/04/24 20:03:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:46: Peer 1001 received the 'have' message from 1002 for the piece 116.
+2018/04/24 20:03:46: Peer 1001 received the 'have' message from 1002 for the piece 49.
+2018/04/24 20:03:46: Peer 1001 is choked by 1002.
+2018/04/24 20:03:46: Peer 1001 received the 'have' message from 1002 for the piece 151.
+2018/04/24 20:03:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:51: Peer 1001 received the 'have' message from 1002 for the piece 292.
+2018/04/24 20:03:51: Peer 1001 received the 'have' message from 1002 for the piece 305.
+2018/04/24 20:03:51: Peer 1001 is choked by 1002.
+2018/04/24 20:03:51: Peer 1001 received the 'have' message from 1002 for the piece 166.
+2018/04/24 20:03:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:03:55: Peer 1001 received the 'have' message from 1002 for the piece 15.
+2018/04/24 20:03:55: Peer 1001 received the 'have' message from 1002 for the piece 1.
+2018/04/24 20:03:55: Peer 1001 is choked by 1002.
+2018/04/24 20:03:55: Peer 1001 received the 'have' message from 1002 for the piece 106.
+2018/04/24 20:03:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:03:56: Peer 1001 received the 'have' message from 1002 for the piece 66.
+2018/04/24 20:03:56: Peer 1001 received the 'have' message from 1002 for the piece 182.
+2018/04/24 20:03:56: Peer 1001 is choked by 1002.
+2018/04/24 20:03:56: Peer 1001 received the 'have' message from 1002 for the piece 326.
+2018/04/24 20:04:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:01: Peer 1001 received the 'have' message from 1002 for the piece 221.
+2018/04/24 20:04:01: Peer 1001 received the 'have' message from 1002 for the piece 88.
+2018/04/24 20:04:01: Peer 1001 is choked by 1002.
+2018/04/24 20:04:01: Peer 1001 received the 'have' message from 1002 for the piece 224.
+2018/04/24 20:04:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:06: Peer 1001 received the 'have' message from 1002 for the piece 317.
+2018/04/24 20:04:06: Peer 1001 received the 'have' message from 1002 for the piece 20.
+2018/04/24 20:04:06: Peer 1001 is choked by 1002.
+2018/04/24 20:04:06: Peer 1001 received the 'have' message from 1002 for the piece 99.
+2018/04/24 20:04:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:04:10: Peer 1001 received the 'have' message from 1002 for the piece 23.
+2018/04/24 20:04:10: Peer 1001 received the 'have' message from 1002 for the piece 238.
+2018/04/24 20:04:10: Peer 1001 is choked by 1002.
+2018/04/24 20:04:10: Peer 1001 received the 'have' message from 1002 for the piece 215.
+2018/04/24 20:04:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:11: Peer 1001 received the 'have' message from 1002 for the piece 53.
+2018/04/24 20:04:11: Peer 1001 received the 'have' message from 1002 for the piece 283.
+2018/04/24 20:04:11: Peer 1001 is choked by 1002.
+2018/04/24 20:04:11: Peer 1001 received the 'have' message from 1002 for the piece 353.
+2018/04/24 20:04:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:16: Peer 1001 received the 'have' message from 1002 for the piece 75.
+2018/04/24 20:04:16: Peer 1001 received the 'have' message from 1002 for the piece 144.
+2018/04/24 20:04:16: Peer 1001 is choked by 1002.
+2018/04/24 20:04:16: Peer 1001 received the 'have' message from 1002 for the piece 171.
+2018/04/24 20:04:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:21: Peer 1001 received the 'have' message from 1002 for the piece 50.
+2018/04/24 20:04:21: Peer 1001 received the 'have' message from 1002 for the piece 194.
+2018/04/24 20:04:21: Peer 1001 is choked by 1002.
+2018/04/24 20:04:21: Peer 1001 received the 'have' message from 1002 for the piece 44.
+2018/04/24 20:04:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:04:25: Peer 1001 received the 'have' message from 1002 for the piece 196.
+2018/04/24 20:04:25: Peer 1001 received the 'have' message from 1002 for the piece 154.
+2018/04/24 20:04:25: Peer 1001 is choked by 1002.
+2018/04/24 20:04:25: Peer 1001 received the 'have' message from 1002 for the piece 147.
+2018/04/24 20:04:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:26: Peer 1001 received the 'have' message from 1002 for the piece 179.
+2018/04/24 20:04:26: Peer 1001 received the 'have' message from 1002 for the piece 351.
+2018/04/24 20:04:26: Peer 1001 is choked by 1002.
+2018/04/24 20:04:26: Peer 1001 received the 'have' message from 1002 for the piece 362.
+2018/04/24 20:04:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:31: Peer 1001 received the 'have' message from 1002 for the piece 83.
+2018/04/24 20:04:31: Peer 1001 received the 'have' message from 1002 for the piece 0.
+2018/04/24 20:04:31: Peer 1001 is choked by 1002.
+2018/04/24 20:04:31: Peer 1001 received the 'have' message from 1002 for the piece 370.
+2018/04/24 20:04:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:36: Peer 1001 received the 'have' message from 1002 for the piece 346.
+2018/04/24 20:04:36: Peer 1001 received the 'have' message from 1002 for the piece 259.
+2018/04/24 20:04:36: Peer 1001 is choked by 1002.
+2018/04/24 20:04:36: Peer 1001 received the 'have' message from 1002 for the piece 247.
+2018/04/24 20:04:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:04:40: Peer 1001 received the 'have' message from 1002 for the piece 374.
+2018/04/24 20:04:40: Peer 1001 received the 'have' message from 1002 for the piece 185.
+2018/04/24 20:04:40: Peer 1001 is choked by 1002.
+2018/04/24 20:04:40: Peer 1001 received the 'have' message from 1002 for the piece 203.
+2018/04/24 20:04:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:41: Peer 1001 received the 'have' message from 1002 for the piece 118.
+2018/04/24 20:04:41: Peer 1001 received the 'have' message from 1002 for the piece 327.
+2018/04/24 20:04:41: Peer 1001 is choked by 1002.
+2018/04/24 20:04:41: Peer 1001 received the 'have' message from 1002 for the piece 352.
+2018/04/24 20:04:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:46: Peer 1001 received the 'have' message from 1002 for the piece 25.
+2018/04/24 20:04:46: Peer 1001 received the 'have' message from 1002 for the piece 150.
+2018/04/24 20:04:46: Peer 1001 is choked by 1002.
+2018/04/24 20:04:46: Peer 1001 received the 'have' message from 1002 for the piece 90.
+2018/04/24 20:04:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:51: Peer 1001 received the 'have' message from 1002 for the piece 325.
+2018/04/24 20:04:51: Peer 1001 received the 'have' message from 1002 for the piece 135.
+2018/04/24 20:04:51: Peer 1001 is choked by 1002.
+2018/04/24 20:04:51: Peer 1001 received the 'have' message from 1002 for the piece 231.
+2018/04/24 20:04:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:04:55: Peer 1001 received the 'have' message from 1002 for the piece 368.
+2018/04/24 20:04:55: Peer 1001 received the 'have' message from 1002 for the piece 124.
+2018/04/24 20:04:55: Peer 1001 is choked by 1002.
+2018/04/24 20:04:55: Peer 1001 received the 'have' message from 1002 for the piece 123.
+2018/04/24 20:04:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:04:56: Peer 1001 received the 'have' message from 1002 for the piece 280.
+2018/04/24 20:04:56: Peer 1001 received the 'have' message from 1002 for the piece 169.
+2018/04/24 20:04:56: Peer 1001 is choked by 1002.
+2018/04/24 20:04:56: Peer 1001 received the 'have' message from 1002 for the piece 340.
+2018/04/24 20:05:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:01: Peer 1001 received the 'have' message from 1002 for the piece 248.
+2018/04/24 20:05:01: Peer 1001 received the 'have' message from 1002 for the piece 350.
+2018/04/24 20:05:01: Peer 1001 is choked by 1002.
+2018/04/24 20:05:01: Peer 1001 received the 'have' message from 1002 for the piece 167.
+2018/04/24 20:05:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:06: Peer 1001 received the 'have' message from 1002 for the piece 313.
+2018/04/24 20:05:06: Peer 1001 received the 'have' message from 1002 for the piece 74.
+2018/04/24 20:05:06: Peer 1001 is choked by 1002.
+2018/04/24 20:05:06: Peer 1001 received the 'have' message from 1002 for the piece 331.
+2018/04/24 20:05:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:05:10: Peer 1001 received the 'have' message from 1002 for the piece 212.
+2018/04/24 20:05:10: Peer 1001 received the 'have' message from 1002 for the piece 40.
+2018/04/24 20:05:10: Peer 1001 is choked by 1002.
+2018/04/24 20:05:10: Peer 1001 received the 'have' message from 1002 for the piece 341.
+2018/04/24 20:05:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:11: Peer 1001 received the 'have' message from 1002 for the piece 264.
+2018/04/24 20:05:11: Peer 1001 received the 'have' message from 1002 for the piece 299.
+2018/04/24 20:05:11: Peer 1001 is choked by 1002.
+2018/04/24 20:05:11: Peer 1001 received the 'have' message from 1002 for the piece 266.
+2018/04/24 20:05:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:16: Peer 1001 received the 'have' message from 1002 for the piece 176.
+2018/04/24 20:05:16: Peer 1001 received the 'have' message from 1002 for the piece 336.
+2018/04/24 20:05:16: Peer 1001 is choked by 1002.
+2018/04/24 20:05:16: Peer 1001 received the 'have' message from 1002 for the piece 256.
+2018/04/24 20:05:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:21: Peer 1001 received the 'have' message from 1002 for the piece 11.
+2018/04/24 20:05:21: Peer 1001 received the 'have' message from 1002 for the piece 24.
+2018/04/24 20:05:21: Peer 1001 is choked by 1002.
+2018/04/24 20:05:21: Peer 1001 received the 'have' message from 1002 for the piece 261.
+2018/04/24 20:05:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:05:25: Peer 1001 received the 'have' message from 1002 for the piece 321.
+2018/04/24 20:05:25: Peer 1001 received the 'have' message from 1002 for the piece 285.
+2018/04/24 20:05:25: Peer 1001 is choked by 1002.
+2018/04/24 20:05:25: Peer 1001 received the 'have' message from 1002 for the piece 309.
+2018/04/24 20:05:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:26: Peer 1001 received the 'have' message from 1002 for the piece 300.
+2018/04/24 20:05:26: Peer 1001 received the 'have' message from 1002 for the piece 52.
+2018/04/24 20:05:26: Peer 1001 is choked by 1002.
+2018/04/24 20:05:26: Peer 1001 received the 'have' message from 1002 for the piece 253.
+2018/04/24 20:05:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:31: Peer 1001 received the 'have' message from 1002 for the piece 87.
+2018/04/24 20:05:31: Peer 1001 received the 'have' message from 1002 for the piece 109.
+2018/04/24 20:05:31: Peer 1001 is choked by 1002.
+2018/04/24 20:05:31: Peer 1001 received the 'have' message from 1002 for the piece 113.
+2018/04/24 20:05:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:36: Peer 1001 received the 'have' message from 1002 for the piece 274.
+2018/04/24 20:05:36: Peer 1001 received the 'have' message from 1002 for the piece 250.
+2018/04/24 20:05:36: Peer 1001 is choked by 1002.
+2018/04/24 20:05:36: Peer 1001 received the 'have' message from 1002 for the piece 125.
+2018/04/24 20:05:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:05:40: Peer 1001 received the 'have' message from 1002 for the piece 148.
+2018/04/24 20:05:40: Peer 1001 received the 'have' message from 1002 for the piece 63.
+2018/04/24 20:05:40: Peer 1001 is choked by 1002.
+2018/04/24 20:05:40: Peer 1001 received the 'have' message from 1002 for the piece 59.
+2018/04/24 20:05:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:41: Peer 1001 received the 'have' message from 1002 for the piece 202.
+2018/04/24 20:05:41: Peer 1001 received the 'have' message from 1002 for the piece 175.
+2018/04/24 20:05:41: Peer 1001 is choked by 1002.
+2018/04/24 20:05:41: Peer 1001 received the 'have' message from 1002 for the piece 254.
+2018/04/24 20:05:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:46: Peer 1001 received the 'have' message from 1002 for the piece 195.
+2018/04/24 20:05:46: Peer 1001 received the 'have' message from 1002 for the piece 57.
+2018/04/24 20:05:46: Peer 1001 is choked by 1002.
+2018/04/24 20:05:46: Peer 1001 received the 'have' message from 1002 for the piece 381.
+2018/04/24 20:05:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:51: Peer 1001 received the 'have' message from 1002 for the piece 131.
+2018/04/24 20:05:51: Peer 1001 received the 'have' message from 1002 for the piece 138.
+2018/04/24 20:05:51: Peer 1001 is choked by 1002.
+2018/04/24 20:05:51: Peer 1001 received the 'have' message from 1002 for the piece 188.
+2018/04/24 20:05:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:05:55: Peer 1001 received the 'have' message from 1002 for the piece 244.
+2018/04/24 20:05:55: Peer 1001 received the 'have' message from 1002 for the piece 36.
+2018/04/24 20:05:55: Peer 1001 is choked by 1002.
+2018/04/24 20:05:55: Peer 1001 received the 'have' message from 1002 for the piece 236.
+2018/04/24 20:05:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:05:56: Peer 1001 received the 'have' message from 1002 for the piece 200.
+2018/04/24 20:05:56: Peer 1001 received the 'have' message from 1002 for the piece 201.
+2018/04/24 20:05:56: Peer 1001 is choked by 1002.
+2018/04/24 20:05:56: Peer 1001 received the 'have' message from 1002 for the piece 159.
+2018/04/24 20:06:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:01: Peer 1001 received the 'have' message from 1002 for the piece 41.
+2018/04/24 20:06:01: Peer 1001 received the 'have' message from 1002 for the piece 366.
+2018/04/24 20:06:01: Peer 1001 is choked by 1002.
+2018/04/24 20:06:01: Peer 1001 received the 'have' message from 1002 for the piece 304.
+2018/04/24 20:06:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:06: Peer 1001 received the 'have' message from 1002 for the piece 216.
+2018/04/24 20:06:06: Peer 1001 received the 'have' message from 1002 for the piece 45.
+2018/04/24 20:06:06: Peer 1001 is choked by 1002.
+2018/04/24 20:06:06: Peer 1001 received the 'have' message from 1002 for the piece 157.
+2018/04/24 20:06:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:06:10: Peer 1001 received the 'have' message from 1002 for the piece 3.
+2018/04/24 20:06:10: Peer 1001 received the 'have' message from 1002 for the piece 162.
+2018/04/24 20:06:10: Peer 1001 is choked by 1002.
+2018/04/24 20:06:10: Peer 1001 received the 'have' message from 1002 for the piece 130.
+2018/04/24 20:06:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:11: Peer 1001 received the 'have' message from 1002 for the piece 91.
+2018/04/24 20:06:11: Peer 1001 received the 'have' message from 1002 for the piece 93.
+2018/04/24 20:06:11: Peer 1001 is choked by 1002.
+2018/04/24 20:06:11: Peer 1001 received the 'have' message from 1002 for the piece 161.
+2018/04/24 20:06:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:16: Peer 1001 received the 'have' message from 1002 for the piece 371.
+2018/04/24 20:06:16: Peer 1001 received the 'have' message from 1002 for the piece 239.
+2018/04/24 20:06:16: Peer 1001 is choked by 1002.
+2018/04/24 20:06:16: Peer 1001 received the 'have' message from 1002 for the piece 320.
+2018/04/24 20:06:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:21: Peer 1001 received the 'have' message from 1002 for the piece 85.
+2018/04/24 20:06:21: Peer 1001 received the 'have' message from 1002 for the piece 31.
+2018/04/24 20:06:21: Peer 1001 is choked by 1002.
+2018/04/24 20:06:21: Peer 1001 received the 'have' message from 1002 for the piece 139.
+2018/04/24 20:06:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:06:25: Peer 1001 received the 'have' message from 1002 for the piece 293.
+2018/04/24 20:06:25: Peer 1001 received the 'have' message from 1002 for the piece 55.
+2018/04/24 20:06:25: Peer 1001 is choked by 1002.
+2018/04/24 20:06:25: Peer 1001 received the 'have' message from 1002 for the piece 146.
+2018/04/24 20:06:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:26: Peer 1001 received the 'have' message from 1002 for the piece 129.
+2018/04/24 20:06:26: Peer 1001 received the 'have' message from 1002 for the piece 2.
+2018/04/24 20:06:26: Peer 1001 is choked by 1002.
+2018/04/24 20:06:26: Peer 1001 received the 'have' message from 1002 for the piece 58.
+2018/04/24 20:06:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:31: Peer 1001 received the 'have' message from 1002 for the piece 355.
+2018/04/24 20:06:31: Peer 1001 received the 'have' message from 1002 for the piece 334.
+2018/04/24 20:06:31: Peer 1001 is choked by 1002.
+2018/04/24 20:06:31: Peer 1001 received the 'have' message from 1002 for the piece 187.
+2018/04/24 20:06:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:36: Peer 1001 received the 'have' message from 1002 for the piece 329.
+2018/04/24 20:06:36: Peer 1001 received the 'have' message from 1002 for the piece 307.
+2018/04/24 20:06:36: Peer 1001 is choked by 1002.
+2018/04/24 20:06:36: Peer 1001 received the 'have' message from 1002 for the piece 35.
+2018/04/24 20:06:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:06:40: Peer 1001 received the 'have' message from 1002 for the piece 191.
+2018/04/24 20:06:40: Peer 1001 received the 'have' message from 1002 for the piece 111.
+2018/04/24 20:06:40: Peer 1001 is choked by 1002.
+2018/04/24 20:06:40: Peer 1001 received the 'have' message from 1002 for the piece 8.
+2018/04/24 20:06:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:41: Peer 1001 received the 'have' message from 1002 for the piece 343.
+2018/04/24 20:06:41: Peer 1001 received the 'have' message from 1002 for the piece 68.
+2018/04/24 20:06:41: Peer 1001 is choked by 1002.
+2018/04/24 20:06:41: Peer 1001 received the 'have' message from 1002 for the piece 43.
+2018/04/24 20:06:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:46: Peer 1001 received the 'have' message from 1002 for the piece 249.
+2018/04/24 20:06:46: Peer 1001 received the 'have' message from 1002 for the piece 295.
+2018/04/24 20:06:46: Peer 1001 is choked by 1002.
+2018/04/24 20:06:46: Peer 1001 received the 'have' message from 1002 for the piece 199.
+2018/04/24 20:06:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:51: Peer 1001 received the 'have' message from 1002 for the piece 323.
+2018/04/24 20:06:51: Peer 1001 received the 'have' message from 1002 for the piece 281.
+2018/04/24 20:06:51: Peer 1001 is choked by 1002.
+2018/04/24 20:06:51: Peer 1001 received the 'have' message from 1002 for the piece 245.
+2018/04/24 20:06:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:06:55: Peer 1001 received the 'have' message from 1002 for the piece 26.
+2018/04/24 20:06:55: Peer 1001 received the 'have' message from 1002 for the piece 140.
+2018/04/24 20:06:55: Peer 1001 is choked by 1002.
+2018/04/24 20:06:55: Peer 1001 received the 'have' message from 1002 for the piece 278.
+2018/04/24 20:06:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:06:56: Peer 1001 received the 'have' message from 1002 for the piece 22.
+2018/04/24 20:06:56: Peer 1001 received the 'have' message from 1002 for the piece 241.
+2018/04/24 20:06:56: Peer 1001 is choked by 1002.
+2018/04/24 20:06:56: Peer 1001 received the 'have' message from 1002 for the piece 237.
+2018/04/24 20:07:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:01: Peer 1001 received the 'have' message from 1002 for the piece 345.
+2018/04/24 20:07:01: Peer 1001 received the 'have' message from 1002 for the piece 356.
+2018/04/24 20:07:01: Peer 1001 is choked by 1002.
+2018/04/24 20:07:01: Peer 1001 received the 'have' message from 1002 for the piece 234.
+2018/04/24 20:07:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:06: Peer 1001 received the 'have' message from 1002 for the piece 115.
+2018/04/24 20:07:06: Peer 1001 received the 'have' message from 1002 for the piece 308.
+2018/04/24 20:07:06: Peer 1001 is choked by 1002.
+2018/04/24 20:07:06: Peer 1001 received the 'have' message from 1002 for the piece 86.
+2018/04/24 20:07:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:07:10: Peer 1001 received the 'have' message from 1002 for the piece 303.
+2018/04/24 20:07:10: Peer 1001 received the 'have' message from 1002 for the piece 383.
+2018/04/24 20:07:10: Peer 1001 is choked by 1002.
+2018/04/24 20:07:10: Peer 1001 received the 'have' message from 1002 for the piece 192.
+2018/04/24 20:07:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:11: Peer 1001 received the 'have' message from 1002 for the piece 342.
+2018/04/24 20:07:11: Peer 1001 received the 'have' message from 1002 for the piece 136.
+2018/04/24 20:07:11: Peer 1001 is choked by 1002.
+2018/04/24 20:07:11: Peer 1001 received the 'have' message from 1002 for the piece 228.
+2018/04/24 20:07:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:16: Peer 1001 received the 'have' message from 1002 for the piece 361.
+2018/04/24 20:07:16: Peer 1001 received the 'have' message from 1002 for the piece 98.
+2018/04/24 20:07:16: Peer 1001 is choked by 1002.
+2018/04/24 20:07:16: Peer 1001 received the 'have' message from 1002 for the piece 142.
+2018/04/24 20:07:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:21: Peer 1001 received the 'have' message from 1002 for the piece 105.
+2018/04/24 20:07:21: Peer 1001 received the 'have' message from 1002 for the piece 380.
+2018/04/24 20:07:21: Peer 1001 is choked by 1002.
+2018/04/24 20:07:21: Peer 1001 received the 'have' message from 1002 for the piece 29.
+2018/04/24 20:07:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:07:25: Peer 1001 received the 'have' message from 1002 for the piece 64.
+2018/04/24 20:07:25: Peer 1001 received the 'have' message from 1002 for the piece 205.
+2018/04/24 20:07:25: Peer 1001 is choked by 1002.
+2018/04/24 20:07:25: Peer 1001 received the 'have' message from 1002 for the piece 62.
+2018/04/24 20:07:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:26: Peer 1001 received the 'have' message from 1002 for the piece 67.
+2018/04/24 20:07:26: Peer 1001 received the 'have' message from 1002 for the piece 17.
+2018/04/24 20:07:26: Peer 1001 is choked by 1002.
+2018/04/24 20:07:26: Peer 1001 received the 'have' message from 1002 for the piece 72.
+2018/04/24 20:07:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:31: Peer 1001 received the 'have' message from 1002 for the piece 377.
+2018/04/24 20:07:31: Peer 1001 received the 'have' message from 1002 for the piece 322.
+2018/04/24 20:07:31: Peer 1001 is choked by 1002.
+2018/04/24 20:07:31: Peer 1001 received the 'have' message from 1002 for the piece 165.
+2018/04/24 20:07:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:36: Peer 1001 received the 'have' message from 1002 for the piece 5.
+2018/04/24 20:07:36: Peer 1001 received the 'have' message from 1002 for the piece 117.
+2018/04/24 20:07:36: Peer 1001 is choked by 1002.
+2018/04/24 20:07:36: Peer 1001 received the 'have' message from 1002 for the piece 190.
+2018/04/24 20:07:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:07:40: Peer 1001 received the 'have' message from 1002 for the piece 193.
+2018/04/24 20:07:40: Peer 1001 received the 'have' message from 1002 for the piece 226.
+2018/04/24 20:07:40: Peer 1001 is choked by 1002.
+2018/04/24 20:07:40: Peer 1001 received the 'have' message from 1002 for the piece 153.
+2018/04/24 20:07:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:41: Peer 1001 received the 'have' message from 1002 for the piece 291.
+2018/04/24 20:07:41: Peer 1001 received the 'have' message from 1002 for the piece 246.
+2018/04/24 20:07:41: Peer 1001 is choked by 1002.
+2018/04/24 20:07:41: Peer 1001 received the 'have' message from 1002 for the piece 10.
+2018/04/24 20:07:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:46: Peer 1001 received the 'have' message from 1002 for the piece 37.
+2018/04/24 20:07:46: Peer 1001 received the 'have' message from 1002 for the piece 235.
+2018/04/24 20:07:46: Peer 1001 is choked by 1002.
+2018/04/24 20:07:46: Peer 1001 received the 'have' message from 1002 for the piece 70.
+2018/04/24 20:07:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:51: Peer 1001 received the 'have' message from 1002 for the piece 9.
+2018/04/24 20:07:51: Peer 1001 received the 'have' message from 1002 for the piece 78.
+2018/04/24 20:07:51: Peer 1001 is choked by 1002.
+2018/04/24 20:07:51: Peer 1001 received the 'have' message from 1002 for the piece 217.
+2018/04/24 20:07:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:07:55: Peer 1001 received the 'have' message from 1002 for the piece 223.
+2018/04/24 20:07:55: Peer 1001 received the 'have' message from 1002 for the piece 126.
+2018/04/24 20:07:55: Peer 1001 is choked by 1002.
+2018/04/24 20:07:55: Peer 1001 received the 'have' message from 1002 for the piece 7.
+2018/04/24 20:07:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:07:56: Peer 1001 received the 'have' message from 1002 for the piece 38.
+2018/04/24 20:07:56: Peer 1001 received the 'have' message from 1002 for the piece 273.
+2018/04/24 20:07:56: Peer 1001 is choked by 1002.
+2018/04/24 20:07:56: Peer 1001 received the 'have' message from 1002 for the piece 54.
+2018/04/24 20:08:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:01: Peer 1001 received the 'have' message from 1002 for the piece 275.
+2018/04/24 20:08:01: Peer 1001 received the 'have' message from 1002 for the piece 197.
+2018/04/24 20:08:01: Peer 1001 is choked by 1002.
+2018/04/24 20:08:01: Peer 1001 received the 'have' message from 1002 for the piece 112.
+2018/04/24 20:08:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:06: Peer 1001 received the 'have' message from 1002 for the piece 233.
+2018/04/24 20:08:06: Peer 1001 received the 'have' message from 1002 for the piece 333.
+2018/04/24 20:08:06: Peer 1001 is choked by 1002.
+2018/04/24 20:08:06: Peer 1001 received the 'have' message from 1002 for the piece 272.
+2018/04/24 20:08:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:08:10: Peer 1001 received the 'have' message from 1002 for the piece 39.
+2018/04/24 20:08:10: Peer 1001 received the 'have' message from 1002 for the piece 301.
+2018/04/24 20:08:10: Peer 1001 is choked by 1002.
+2018/04/24 20:08:10: Peer 1001 received the 'have' message from 1002 for the piece 173.
+2018/04/24 20:08:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:11: Peer 1001 received the 'have' message from 1002 for the piece 119.
+2018/04/24 20:08:11: Peer 1001 received the 'have' message from 1002 for the piece 94.
+2018/04/24 20:08:11: Peer 1001 is choked by 1002.
+2018/04/24 20:08:11: Peer 1001 received the 'have' message from 1002 for the piece 347.
+2018/04/24 20:08:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:16: Peer 1001 received the 'have' message from 1002 for the piece 133.
+2018/04/24 20:08:16: Peer 1001 received the 'have' message from 1002 for the piece 121.
+2018/04/24 20:08:16: Peer 1001 is choked by 1002.
+2018/04/24 20:08:16: Peer 1001 received the 'have' message from 1002 for the piece 92.
+2018/04/24 20:08:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:21: Peer 1001 received the 'have' message from 1002 for the piece 206.
+2018/04/24 20:08:21: Peer 1001 received the 'have' message from 1002 for the piece 6.
+2018/04/24 20:08:21: Peer 1001 is choked by 1002.
+2018/04/24 20:08:21: Peer 1001 received the 'have' message from 1002 for the piece 302.
+2018/04/24 20:08:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:08:25: Peer 1001 received the 'have' message from 1002 for the piece 32.
+2018/04/24 20:08:25: Peer 1001 received the 'have' message from 1002 for the piece 358.
+2018/04/24 20:08:25: Peer 1001 is choked by 1002.
+2018/04/24 20:08:25: Peer 1001 received the 'have' message from 1002 for the piece 369.
+2018/04/24 20:08:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:26: Peer 1001 received the 'have' message from 1002 for the piece 316.
+2018/04/24 20:08:26: Peer 1001 received the 'have' message from 1002 for the piece 71.
+2018/04/24 20:08:26: Peer 1001 is choked by 1002.
+2018/04/24 20:08:26: Peer 1001 received the 'have' message from 1002 for the piece 134.
+2018/04/24 20:08:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:31: Peer 1001 received the 'have' message from 1002 for the piece 367.
+2018/04/24 20:08:31: Peer 1001 received the 'have' message from 1002 for the piece 311.
+2018/04/24 20:08:31: Peer 1001 is choked by 1002.
+2018/04/24 20:08:31: Peer 1001 received the 'have' message from 1002 for the piece 286.
+2018/04/24 20:08:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:36: Peer 1001 received the 'have' message from 1002 for the piece 177.
+2018/04/24 20:08:36: Peer 1001 received the 'have' message from 1002 for the piece 277.
+2018/04/24 20:08:36: Peer 1001 is choked by 1002.
+2018/04/24 20:08:36: Peer 1001 received the 'have' message from 1002 for the piece 89.
+2018/04/24 20:08:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:08:40: Peer 1001 received the 'have' message from 1002 for the piece 97.
+2018/04/24 20:08:40: Peer 1001 received the 'have' message from 1002 for the piece 357.
+2018/04/24 20:08:40: Peer 1001 is choked by 1002.
+2018/04/24 20:08:40: Peer 1001 received the 'have' message from 1002 for the piece 376.
+2018/04/24 20:08:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:41: Peer 1001 received the 'have' message from 1002 for the piece 319.
+2018/04/24 20:08:41: Peer 1001 received the 'have' message from 1002 for the piece 330.
+2018/04/24 20:08:41: Peer 1001 is choked by 1002.
+2018/04/24 20:08:41: Peer 1001 received the 'have' message from 1002 for the piece 359.
+2018/04/24 20:08:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:46: Peer 1001 received the 'have' message from 1002 for the piece 276.
+2018/04/24 20:08:46: Peer 1001 received the 'have' message from 1002 for the piece 96.
+2018/04/24 20:08:46: Peer 1001 is choked by 1002.
+2018/04/24 20:08:46: Peer 1001 received the 'have' message from 1002 for the piece 364.
+2018/04/24 20:08:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:51: Peer 1001 received the 'have' message from 1002 for the piece 163.
+2018/04/24 20:08:51: Peer 1001 received the 'have' message from 1002 for the piece 354.
+2018/04/24 20:08:51: Peer 1001 is choked by 1002.
+2018/04/24 20:08:51: Peer 1001 received the 'have' message from 1002 for the piece 219.
+2018/04/24 20:08:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:08:55: Peer 1001 received the 'have' message from 1002 for the piece 164.
+2018/04/24 20:08:55: Peer 1001 received the 'have' message from 1002 for the piece 382.
+2018/04/24 20:08:55: Peer 1001 is choked by 1002.
+2018/04/24 20:08:55: Peer 1001 received the 'have' message from 1002 for the piece 222.
+2018/04/24 20:08:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:08:56: Peer 1001 received the 'have' message from 1002 for the piece 227.
+2018/04/24 20:08:56: Peer 1001 received the 'have' message from 1002 for the piece 60.
+2018/04/24 20:08:56: Peer 1001 is choked by 1002.
+2018/04/24 20:08:56: Peer 1001 received the 'have' message from 1002 for the piece 33.
+2018/04/24 20:09:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:01: Peer 1001 received the 'have' message from 1002 for the piece 95.
+2018/04/24 20:09:01: Peer 1001 received the 'have' message from 1002 for the piece 318.
+2018/04/24 20:09:01: Peer 1001 is choked by 1002.
+2018/04/24 20:09:01: Peer 1001 received the 'have' message from 1002 for the piece 84.
+2018/04/24 20:09:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:06: Peer 1001 received the 'have' message from 1002 for the piece 287.
+2018/04/24 20:09:06: Peer 1001 received the 'have' message from 1002 for the piece 243.
+2018/04/24 20:09:06: Peer 1001 is choked by 1002.
+2018/04/24 20:09:06: Peer 1001 received the 'have' message from 1002 for the piece 218.
+2018/04/24 20:09:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:09:10: Peer 1001 received the 'have' message from 1002 for the piece 289.
+2018/04/24 20:09:10: Peer 1001 received the 'have' message from 1002 for the piece 232.
+2018/04/24 20:09:10: Peer 1001 is choked by 1002.
+2018/04/24 20:09:10: Peer 1001 received the 'have' message from 1002 for the piece 152.
+2018/04/24 20:09:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:11: Peer 1001 received the 'have' message from 1002 for the piece 127.
+2018/04/24 20:09:11: Peer 1001 received the 'have' message from 1002 for the piece 184.
+2018/04/24 20:09:11: Peer 1001 is choked by 1002.
+2018/04/24 20:09:11: Peer 1001 received the 'have' message from 1002 for the piece 306.
+2018/04/24 20:09:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:16: Peer 1001 received the 'have' message from 1002 for the piece 101.
+2018/04/24 20:09:16: Peer 1001 received the 'have' message from 1002 for the piece 365.
+2018/04/24 20:09:16: Peer 1001 is choked by 1002.
+2018/04/24 20:09:16: Peer 1001 received the 'have' message from 1002 for the piece 379.
+2018/04/24 20:09:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:21: Peer 1001 received the 'have' message from 1002 for the piece 338.
+2018/04/24 20:09:21: Peer 1001 received the 'have' message from 1002 for the piece 229.
+2018/04/24 20:09:21: Peer 1001 is choked by 1002.
+2018/04/24 20:09:21: Peer 1001 received the 'have' message from 1002 for the piece 348.
+2018/04/24 20:09:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:09:25: Peer 1001 received the 'have' message from 1002 for the piece 269.
+2018/04/24 20:09:25: Peer 1001 received the 'have' message from 1002 for the piece 28.
+2018/04/24 20:09:25: Peer 1001 is choked by 1002.
+2018/04/24 20:09:25: Peer 1001 received the 'have' message from 1002 for the piece 270.
+2018/04/24 20:09:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:26: Peer 1001 received the 'have' message from 1002 for the piece 4.
+2018/04/24 20:09:26: Peer 1001 received the 'have' message from 1002 for the piece 207.
+2018/04/24 20:09:26: Peer 1001 is choked by 1002.
+2018/04/24 20:09:26: Peer 1001 received the 'have' message from 1002 for the piece 172.
+2018/04/24 20:09:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:31: Peer 1001 received the 'have' message from 1002 for the piece 288.
+2018/04/24 20:09:31: Peer 1001 received the 'have' message from 1002 for the piece 122.
+2018/04/24 20:09:31: Peer 1001 is choked by 1002.
+2018/04/24 20:09:31: Peer 1001 received the 'have' message from 1002 for the piece 16.
+2018/04/24 20:09:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:36: Peer 1001 received the 'have' message from 1002 for the piece 14.
+2018/04/24 20:09:36: Peer 1001 received the 'have' message from 1002 for the piece 51.
+2018/04/24 20:09:36: Peer 1001 is choked by 1002.
+2018/04/24 20:09:36: Peer 1001 received the 'have' message from 1002 for the piece 13.
+2018/04/24 20:09:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:09:40: Peer 1001 received the 'have' message from 1002 for the piece 65.
+2018/04/24 20:09:40: Peer 1001 received the 'have' message from 1002 for the piece 77.
+2018/04/24 20:09:40: Peer 1001 is choked by 1002.
+2018/04/24 20:09:40: Peer 1001 received the 'have' message from 1002 for the piece 158.
+2018/04/24 20:09:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:41: Peer 1001 received the 'have' message from 1002 for the piece 143.
+2018/04/24 20:09:41: Peer 1001 received the 'have' message from 1002 for the piece 82.
+2018/04/24 20:09:41: Peer 1001 is choked by 1002.
+2018/04/24 20:09:41: Peer 1001 received the 'have' message from 1002 for the piece 160.
+2018/04/24 20:09:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:46: Peer 1001 received the 'have' message from 1002 for the piece 211.
+2018/04/24 20:09:46: Peer 1001 received the 'have' message from 1002 for the piece 80.
+2018/04/24 20:09:46: Peer 1001 is choked by 1002.
+2018/04/24 20:09:46: Peer 1001 received the 'have' message from 1002 for the piece 102.
+2018/04/24 20:09:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:51: Peer 1001 received the 'have' message from 1002 for the piece 186.
+2018/04/24 20:09:51: Peer 1001 received the 'have' message from 1002 for the piece 328.
+2018/04/24 20:09:51: Peer 1001 is choked by 1002.
+2018/04/24 20:09:51: Peer 1001 received the 'have' message from 1002 for the piece 279.
+2018/04/24 20:09:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:09:55: Peer 1001 received the 'have' message from 1002 for the piece 120.
+2018/04/24 20:09:55: Peer 1001 received the 'have' message from 1002 for the piece 19.
+2018/04/24 20:09:55: Peer 1001 is choked by 1002.
+2018/04/24 20:09:55: Peer 1001 received the 'have' message from 1002 for the piece 114.
+2018/04/24 20:09:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:09:56: Peer 1001 received the 'have' message from 1002 for the piece 363.
+2018/04/24 20:09:56: Peer 1001 received the 'have' message from 1002 for the piece 262.
+2018/04/24 20:09:56: Peer 1001 is choked by 1002.
+2018/04/24 20:09:56: Peer 1001 received the 'have' message from 1002 for the piece 21.
+2018/04/24 20:10:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:01: Peer 1001 received the 'have' message from 1002 for the piece 69.
+2018/04/24 20:10:01: Peer 1001 received the 'have' message from 1002 for the piece 282.
+2018/04/24 20:10:01: Peer 1001 is choked by 1002.
+2018/04/24 20:10:01: Peer 1001 received the 'have' message from 1002 for the piece 265.
+2018/04/24 20:10:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:06: Peer 1001 received the 'have' message from 1002 for the piece 168.
+2018/04/24 20:10:06: Peer 1001 received the 'have' message from 1002 for the piece 34.
+2018/04/24 20:10:06: Peer 1001 is choked by 1002.
+2018/04/24 20:10:06: Peer 1001 received the 'have' message from 1002 for the piece 214.
+2018/04/24 20:10:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:10:10: Peer 1001 received the 'have' message from 1002 for the piece 337.
+2018/04/24 20:10:10: Peer 1001 received the 'have' message from 1002 for the piece 156.
+2018/04/24 20:10:10: Peer 1001 is choked by 1002.
+2018/04/24 20:10:10: Peer 1001 received the 'have' message from 1002 for the piece 210.
+2018/04/24 20:10:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:11: Peer 1001 received the 'have' message from 1002 for the piece 27.
+2018/04/24 20:10:11: Peer 1001 received the 'have' message from 1002 for the piece 61.
+2018/04/24 20:10:11: Peer 1001 is choked by 1002.
+2018/04/24 20:10:11: Peer 1001 received the 'have' message from 1002 for the piece 213.
+2018/04/24 20:10:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:16: Peer 1001 received the 'have' message from 1002 for the piece 284.
+2018/04/24 20:10:16: Peer 1001 received the 'have' message from 1002 for the piece 263.
+2018/04/24 20:10:16: Peer 1001 is choked by 1002.
+2018/04/24 20:10:16: Peer 1001 received the 'have' message from 1002 for the piece 204.
+2018/04/24 20:10:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:21: Peer 1001 received the 'have' message from 1002 for the piece 312.
+2018/04/24 20:10:21: Peer 1001 received the 'have' message from 1002 for the piece 258.
+2018/04/24 20:10:21: Peer 1001 is choked by 1002.
+2018/04/24 20:10:21: Peer 1001 received the 'have' message from 1002 for the piece 132.
+2018/04/24 20:10:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:10:25: Peer 1001 received the 'have' message from 1002 for the piece 145.
+2018/04/24 20:10:25: Peer 1001 received the 'have' message from 1002 for the piece 46.
+2018/04/24 20:10:25: Peer 1001 is choked by 1002.
+2018/04/24 20:10:25: Peer 1001 received the 'have' message from 1002 for the piece 225.
+2018/04/24 20:10:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:26: Peer 1001 received the 'have' message from 1002 for the piece 30.
+2018/04/24 20:10:26: Peer 1001 received the 'have' message from 1002 for the piece 56.
+2018/04/24 20:10:26: Peer 1001 is choked by 1002.
+2018/04/24 20:10:26: Peer 1001 received the 'have' message from 1002 for the piece 335.
+2018/04/24 20:10:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:31: Peer 1001 received the 'have' message from 1002 for the piece 198.
+2018/04/24 20:10:31: Peer 1001 received the 'have' message from 1002 for the piece 110.
+2018/04/24 20:10:31: Peer 1001 is choked by 1002.
+2018/04/24 20:10:31: Peer 1001 received the 'have' message from 1002 for the piece 76.
+2018/04/24 20:10:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:36: Peer 1001 received the 'have' message from 1002 for the piece 268.
+2018/04/24 20:10:36: Peer 1001 received the 'have' message from 1002 for the piece 81.
+2018/04/24 20:10:36: Peer 1001 is choked by 1002.
+2018/04/24 20:10:36: Peer 1001 received the 'have' message from 1002 for the piece 297.
+2018/04/24 20:10:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:10:40: Peer 1001 received the 'have' message from 1002 for the piece 208.
+2018/04/24 20:10:40: Peer 1001 received the 'have' message from 1002 for the piece 79.
+2018/04/24 20:10:40: Peer 1001 is choked by 1002.
+2018/04/24 20:10:40: Peer 1001 received the 'have' message from 1002 for the piece 360.
+2018/04/24 20:10:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:41: Peer 1001 received the 'have' message from 1002 for the piece 271.
+2018/04/24 20:10:41: Peer 1001 received the 'have' message from 1002 for the piece 310.
+2018/04/24 20:10:41: Peer 1001 is choked by 1002.
+2018/04/24 20:10:41: Peer 1001 received the 'have' message from 1002 for the piece 332.
+2018/04/24 20:10:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:46: Peer 1001 received the 'have' message from 1002 for the piece 296.
+2018/04/24 20:10:46: Peer 1001 received the 'have' message from 1002 for the piece 298.
+2018/04/24 20:10:46: Peer 1001 is choked by 1002.
+2018/04/24 20:10:46: Peer 1001 received the 'have' message from 1002 for the piece 373.
+2018/04/24 20:10:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:10:51: Peer 1001 received the 'have' message from 1002 for the piece 137.
+2018/04/24 20:10:51: Peer 1001 received the 'have' message from 1002 for the piece 103.
+2018/04/24 20:10:51: Peer 1001 is choked by 1002.
+2018/04/24 20:10:51: Peer 1001 received the 'have' message from 1002 for the piece 255.
+2018/04/24 20:10:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:10:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:11:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:11:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:11:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:11:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:11:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:12:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:12:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:12:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:12:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:12:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:13:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:13:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:13:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:13:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:13:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:14:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:14:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:14:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:14:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:14:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:15:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:21: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:15:26: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:31: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:36: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:15:41: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:46: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:51: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:15:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:15:56: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:01: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:06: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:16:11: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:16: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:16:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:16:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:16:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:16:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:17:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:17:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:17:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:17:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:17:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:18:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:18:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:18:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:18:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:18:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:19:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:19:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:19:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:19:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:19:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:10: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:20:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:25: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:20:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:40: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:20:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:20:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:20:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:21:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:21:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:41: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:21:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:21:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:21:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:22:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:22:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:41: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:22:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:22:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:22:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:23:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:23:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:41: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:23:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:23:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:23:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:24:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:24:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:41: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:24:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:24:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:24:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:25:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:25:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:41: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:25:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:25:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:25:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:26:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:26:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:37: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:41: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:26:42: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:47: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:52: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:26:56: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:26:57: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:02: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:07: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:11: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:27:12: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:17: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:22: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:26: Peer 1001 has the optimistically unchoked neighbor 1002.
+2018/04/24 20:27:27: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:32: Peer 1001 has the preferred neighbors 0,0.
+2018/04/24 20:27:37: Peer 1001 has the preferred neighbors 0,0.
